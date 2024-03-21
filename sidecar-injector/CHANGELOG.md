@@ -1,5 +1,10 @@
-
 # Changelog
+
+## [0.16.5] - 2024-03-21
+
+### Changed
+
+- Fixed duplicate serviceAcccountName
 
 ## [0.16.4] - 2024-03-12
 
